@@ -1,6 +1,6 @@
 require - CommonJS
 
-import - ESM
+import - ESM - ( ECMA Script Modules )
 
 https://masteringjs.io/tutorials/node/import-vs-require
 
