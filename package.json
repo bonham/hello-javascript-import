@@ -1,0 +1,9 @@
+{
+  "name": "hello-javascript-import",
+  "version": "1.0.0",
+   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "requiremain": "node requiremain.js",
+    "importmain": "node main-import.js"
+  }
+}
